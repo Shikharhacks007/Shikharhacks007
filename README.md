@@ -1,5 +1,12 @@
 # A little bit
-Hi, I am Shikhar Sharma,<br>I'm a Software & Machine Learning developer passionate about solving problems and building innovative solutions.<br>I did my undergraduate degree in Computer Science from the prestigious IIIT Delhi.<br>In my free time, you can catch me either scratching new business ideas of analyzing the market.<br>My current research focuses on computer vision and Deep learning.<br>If you find my work interesting, I'm always open to collaborating or discussing ideas. Feel free to reach out to me via my GitHub profile or Linkedin. 
+<p>
+  <b>Hi, I’m Shikhar Sharma! </b> <br>
+  I’m a passionate Software and Machine Learning developer dedicated to solving complex problems and building innovative solutions. I earned my undergraduate degree in Computer Science from the prestigious IIIT Delhi.
+  
+  Currently, I’m diving deep into the realms of <b>computer vision & deep learning </b>, where I explore cutting-edge technologies to create impactful applications. When I’m not coding, you can find me brainstorming new business ideas or analyzing market trends.
+  
+  I’m always eager to collaborate and exchange ideas, so if my work resonates with you, feel free to connect ! <br>Let’s innovate together—reach out via my Linkedin. 
+</p>
 
 
 ## 🌐 Socials:
@@ -12,7 +19,6 @@ Hi, I am Shikhar Sharma,<br>I'm a Software & Machine Learning developer passiona
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shikharhacks007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharhacks007&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
